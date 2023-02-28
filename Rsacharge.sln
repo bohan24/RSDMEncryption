@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rsacharge", "Rsacharge\Rsacharge.csproj", "{60AEC29E-7E03-49ED-B85C-0B69B0E784CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60AEC29E-7E03-49ED-B85C-0B69B0E784CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60AEC29E-7E03-49ED-B85C-0B69B0E784CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60AEC29E-7E03-49ED-B85C-0B69B0E784CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60AEC29E-7E03-49ED-B85C-0B69B0E784CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C9B10A4-944C-425C-A132-30DFE7B6D731}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+d:\Users\W3714(柏翰)\source\repos\Rsacharge\Rsacharge\bin\Debug\Rsacharge.exe.config
+d:\Users\W3714(柏翰)\source\repos\Rsacharge\Rsacharge\bin\Debug\Rsacharge.exe
+d:\Users\W3714(柏翰)\source\repos\Rsacharge\Rsacharge\bin\Debug\Rsacharge.pdb
+d:\Users\W3714(柏翰)\source\repos\Rsacharge\Rsacharge\obj\Debug\Rsacharge.csprojAssemblyReference.cache
+d:\Users\W3714(柏翰)\source\repos\Rsacharge\Rsacharge\obj\Debug\Rsacharge.Form1.resources
+d:\Users\W3714(柏翰)\source\repos\Rsacharge\Rsacharge\obj\Debug\Rsacharge.Properties.Resources.resources
+d:\Users\W3714(柏翰)\source\repos\Rsacharge\Rsacharge\obj\Debug\Rsacharge.csproj.GenerateResource.cache
+d:\Users\W3714(柏翰)\source\repos\Rsacharge\Rsacharge\obj\Debug\Rsacharge.csproj.CoreCompileInputs.cache
+d:\Users\W3714(柏翰)\source\repos\Rsacharge\Rsacharge\obj\Debug\Rsacharge.exe
+d:\Users\W3714(柏翰)\source\repos\Rsacharge\Rsacharge\obj\Debug\Rsacharge.pdb
+d:\Users\W3714(柏翰)\source\repos\Rsacharge\Rsacharge\bin\Debug\Rsacharge.exe.manifest
+d:\Users\W3714(柏翰)\source\repos\Rsacharge\Rsacharge\bin\Debug\Rsacharge.application
+d:\Users\W3714(柏翰)\source\repos\Rsacharge\Rsacharge\obj\Debug\Rsacharge.exe.manifest
+d:\Users\W3714(柏翰)\source\repos\Rsacharge\Rsacharge\obj\Debug\Rsacharge.application
